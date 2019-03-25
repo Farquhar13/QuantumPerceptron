@@ -84,8 +84,9 @@ def Bob_measurement(p):
 def main():
     print("First, we entangle two qubits and give one to Alice and one to Bob.")
     p = entangle_qubits()
-    
-    cbit_string = input("\nEnter the two classical bits Alice would like to send to Bob: ")
+
+    print("\nEnter the two classical bits Alice would like to send to Bob:")
+    cbit_string = input("  Possiblities are {00, 01, 10, 11}: ")
     Alice_p = Alice_Encode(p, cbit_string)
     print("\nTo send those bits, alice applies the following quantum operations to her qubit:")
     print(Alice_p[2:])
