@@ -1,4 +1,4 @@
-## Cornell Applied and Engineering Physics Masters Research (Spring 2018)
+## Cornell Applied and Engineering Physics Masters Research (Spring 2019)
 # A Quantum Perceptron Algorithm
 
 ### Goals: 
