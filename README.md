@@ -1,5 +1,5 @@
-# Cornell Applied and Engineering Physics Masters Research (Spring 2018)
-## Quantum Perceptrons
+## Cornell Applied and Engineering Physics Masters Research (Spring 2018)
+# A Quantum Perceptron Algorithm
 
 ### Goals: 
 1. Journey into the magical land of quantum computing
