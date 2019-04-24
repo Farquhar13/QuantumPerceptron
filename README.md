@@ -11,4 +11,5 @@ https://www.nature.com/articles/s41534-019-0140-4?amp%3Bcode=4cf1b507-7e23-4df0-
 
 
 Advised by Dr. Bart Selman
-  Professor, Department of Computer Science
+
+Professor, Department of Computer Science
